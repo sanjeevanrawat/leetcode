@@ -9,3 +9,5 @@ class Solution {
         return nums.length;
     }
 }
+// time complexity -> O(nlogn);
+// space complexity -> O(1);
