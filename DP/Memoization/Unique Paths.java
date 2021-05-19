@@ -26,3 +26,5 @@ class Solution {
         return dp[i][j] = p1 + p2;
     }
 }
+// time complexity -> O(n);
+// space complexity -> O(1);
